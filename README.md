@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Burak Öyke</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Android Developer</h3>
 
 I graduated as an electrical engineer specializing in software engineering more specifically Android development using Java/Kotlin program languages as well as C, C++, and Python furthermore my skill set extends to mobile development such as Android Studio, Android SDK, and AOSP.
 
